@@ -42,10 +42,23 @@ Markdown format:
   - #### Score Matching
   - #### Data-Dependent Adaptive Priors
   - #### Rectified Flow
+### Efficient Fine-tuning
+  - #### Low Rank Adaptation
 ### Efficient Sampling
   - #### Efficient Solver
   - #### Efficient Scheduling
   - #### Partial Sampling 
+### Compression
+  - #### Knowledge Distillation
+  - #### Quantization
+  - #### Pruning
+
+## System
+### Optimized Hardware-Software Co-Design
+### Parallel Computing
+### Caching Technique
+
+
 
 ## ⭐ Star History
 
