@@ -91,10 +91,19 @@ Markdown format:
 
   - ##### Pruning
     - **[NeurIPS 2023]** Structural Pruning for Diffusion Models. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/35c1d69d23bb5dd6b9abcd68be005d5c-Paper-Conference.pdf) [[Code]](https://github.com/VainF/Diff-Pruning)
-    - **[NeurIPS 2023]** Structural Pruning for Diffusion Models. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/35c1d69d23bb5dd6b9abcd68be005d5c-Paper-Conference.pdf) [[Code]](https://github.com/VainF/Diff-Pruning)
-
+    - **[CVPRW 2024]** LD-Pruner: Efficient Pruning of Latent Diffusion Models using Task-Agnostic Insights. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/EDGE/papers/Castells_LD-Pruner_Efficient_Pruning_of_Latent_Diffusion_Models_using_Task-Agnostic_Insights_CVPRW_2024_paper.pdf)
+    - **[ICML 2024]** LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging. [[Paper]](https://openreview.net/pdf?id=uDoy7AGvEC) [[Code]](https://github.com/snu-mllab/LayerMerge)
+    - **[Arxiv 2024.04]** LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models. [[Paper]](https://arxiv.org/pdf/2404.11098) 
 
   - ##### Knowledge Distillation
+    - **[Arxiv 2021.01]** Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed. [[Paper]](https://arxiv.org/pdf/2101.02388) [[Code]](https://github.com/tcl9876/Denoising_Student)
+    - **[ICLR 2022]** Progressive Distillation for Fast Sampling of Diffusion Models. [[Paper]](https://openreview.net/pdf?id=TIdIXIpzhoI) [[Code]](https://github.com/google-research/google-research/tree/master/diffusion_distillation)
+    - **[CVPR 2023]** On Distillation of Guided Diffusion Models. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Meng_On_Distillation_of_Guided_Diffusion_Models_CVPR_2023_paper.pdf)
+    - **[ICML 2023]** Consistency Models. [[Paper]](https://arxiv.org/pdf/2303.01469) [[Code]](https://github.com/openai/consistency_models)
+    - **[ECCV 2020]** NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. [[Paper]](https://arxiv.org/pdf/2003.08934) [[Code]](https://github.com/bmild/nerf)
+    - **[ICLR 2023]** DreamFusion: Text-to-3D using 2D Diffusion. [[Paper]](https://openreview.net/pdf?id=FjNys5c7VyY) [[Project]](https://dreamfusion3d.github.io/)
+    - **[NeurIPS 2023]** ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation. [[Paper]](https://arxiv.org/pdf/2305.16213) [[Code]](https://github.com/thu-ml/prolificdreamer)
+    - **[NeurIPS 2023]** ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation. [[Paper]](https://arxiv.org/pdf/2305.16213) [[Code]](https://github.com/thu-ml/prolificdreamer)
 
 ### System
 #### Optimized Hardware-Software Co-Design
