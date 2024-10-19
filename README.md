@@ -53,6 +53,15 @@ Markdown format:
     - **[ICLR 2022]** Score-Based Generative Modeling with Critically-Damped Langevin Diffusion [[Paper]]([2112.07068](https://arxiv.org/pdf/2112.07068)) [[Code]](https://github.com/nv-tlabs/CLD-SGM.git)
 
   - ##### Data-Dependent Adaptive Priors
+    - **[ICLR 2022]** PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior [[Paper]](https://openreview.net/pdf?id=_BNiN4IjC5)
+   
+    - **[ICLR 2023]** DiGress: Discrete Denoising Diffusion for Graph Generation [[Paper]](https://openreview.net/pdf?id=UaAD-Nu86WX) [[Code]](https://github.com/cvignac/DiGress)
+   
+    - **[ICML 2023]** DECOMPDIFF: Diffusion Models with Decomposed Priors for Structure-Based Drug Design [[Paper]](https://openreview.net/pdf?id=9qy9DizMlr) [[Code]](https://github.com/bytedance/DecompDiff)
+   
+    - **[Arxiv 2023.03]** Leapfrog Diffusion Model for Stochastic Trajectory Prediction [[Paper]](https://arxiv.org/pdf/2303.10895) [[Code]](https://github.com/MediaBrain-SJTU/LED)
+
+
   - ##### Rectified Flow
 #### Efficient Fine-tuning
   - ##### Low Rank Adaptation
