@@ -23,7 +23,7 @@ If you want to add your work or model to this list, please do not hesitate to [p
 Markdown format:
 
 ```markdown
-* [**Name of Conference or Journal + Year**] Paper Name. [[paper]](link) [[code]](link)
+* **[Name of Conference or Journal + Year]** Paper Name. [[Paper]](link) [[Code]](link)
 ```
 
 ## 📖 Table of Contents
@@ -36,27 +36,31 @@ Markdown format:
 - [📑 Citation](#-citation)
 
 
-## Algorithm
-### Efficient Training
-  - #### Noise Schedule
-  - #### Score Matching
-  - #### Data-Dependent Adaptive Priors
-  - #### Rectified Flow
-### Efficient Fine-tuning
-  - #### Low Rank Adaptation
-### Efficient Sampling
-  - #### Efficient Solver
-  - #### Efficient Scheduling
-  - #### Partial Sampling 
-### Compression
-  - #### Knowledge Distillation
-  - #### Quantization
-  - #### Pruning
+### Algorithm
+#### Efficient Training
+  - ##### Noise Schedule
+    - **[ICLR 2021]** Denoising Diffusion Implicit Models. [[Paper]](https://openreview.net/pdf?id=St1giarCHLP)
+    - **[ICML 2021]** Improved Denoising Diffusion Probabilistic Models. [[Paper]](https://proceedings.mlr.press/v139/nichol21a/nichol21a.pdf) [[Code]](https://github.com/openai/improved-diffusion)
+    - **[Arxiv 2024.07]** Improved Noise Schedule for Diffusion Training. [[Paper]](https://arxiv.org/pdf/2407.03297) 
+    - **[EMNLP 2023]** A Cheaper and Better Diffusion Language Model with Soft-Masked Noise. [[Paper]](https://aclanthology.org/2023.emnlp-main.289.pdf) [[Code]](https://github.com/SALT-NLP/Masked_Diffusioin_LM)
+  - ##### Score Matching
+  - ##### Data-Dependent Adaptive Priors
+  - ##### Rectified Flow
+#### Efficient Fine-tuning
+  - ##### Low Rank Adaptation
+#### Efficient Sampling
+  - ##### Efficient Solver
+  - ##### Efficient Scheduling
+  - ##### Partial Sampling 
+#### Compression
+  - ##### Knowledge Distillation
+  - ##### Quantization
+  - ##### Pruning
 
-## System
-### Optimized Hardware-Software Co-Design
-### Parallel Computing
-### Caching Technique
+### System
+#### Optimized Hardware-Software Co-Design
+#### Parallel Computing
+#### Caching Technique
 
 
 
