@@ -27,9 +27,20 @@ Markdown format:
 ```
 
 ## 📖 Table of Contents
+<!-- TOC -->
 - [📣 Update News](#-update-news)
 - [⚡ Contributing](#-contributing)
 - [📖 Table of Contents](#-table-of-contents)
+  - [Algorithm](#algorithm)
+    - [Efficient Training](#efficient-training)
+    - [Efficient Fine-tuning](#efficient-fine-tuning)
+    - [Efficient Sampling](#efficient-sampling)
+    - [Compression](#compression)
+  - [System](#system)
+    - [Optimized Hardware-Software Co-Design](#optimized-hardware-software-co-design)
+    - [Parallel Computing](#parallel-computing)
+    - [Caching Technique](#caching-technique)
+  - [Frameworks](#frameworks)
 - [⭐ Star History](#-star-history)
 - [♥️ Contributors](#️-contributors)
 - [👍 Acknowledgement](#-acknowledgement)
@@ -137,7 +148,7 @@ Markdown format:
   - **[Arxiv 2024.07]** FORA: Fast-Forward Caching in Diffusion Transformer Acceleration. [[Paper]](https://arxiv.org/pdf/2407.01425) [[Code]](https://github.com/prathebaselva/FORA)
 
 
-## Frameworks
+### Frameworks
 <div align="center">
 
 |                                                    | Efficient Training | Efficient Fine-Tuning | Efficient Inference    |
