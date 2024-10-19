@@ -61,15 +61,23 @@ Markdown format:
   - ##### Score Matching
     - **[UAI 2019]** Sliced Score Matching: A Scalable Approach to Density and Score Estimation. [[Paper]](https://proceedings.mlr.press/v115/song20a/song20a.pdf) [[Code]](https://github.com/ermongroup/sliced_score_matching)
     - **[NeurIPS 2019]** Generative Modeling by Estimating Gradients of the Data Distribution. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf) [[Code]](https://github.com/kasyap1234/-Generative-Modeling-by-Estimating-Gradients-of-the-Data-Distribution-implementation)
-    - **[ICLR 2022]** Score-Based Generative Modeling with Critically-Damped Langevin Diffusion. [[Paper]]([2112.07068](https://arxiv.org/pdf/2112.07068)) [[Code]](https://github.com/nv-tlabs/CLD-SGM.git)
+    - **[ICLR 2022]** Score-Based Generative Modeling with Critically-Damped Langevin Diffusion. [[Paper]]((https://arxiv.org/pdf/2112.07068)) [[Code]](https://github.com/nv-tlabs/CLD-SGM)
 
   - ##### Data-Dependent Adaptive Priors
-    - **[ICLR 2022]** PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior. [[Paper]](https://openreview.net/pdf?id=_BNiN4IjC5)
-    - **[ICLR 2023]** DiGress: Discrete Denoising Diffusion for Graph Generation. [[Paper]](https://openreview.net/pdf?id=UaAD-Nu86WX) [[Code]](https://github.com/cvignac/DiGress)
-    - **[ICML 2023]** DECOMPDIFF: Diffusion Models with Decomposed Priors for Structure-Based Drug Design. [[Paper]](https://openreview.net/pdf?id=9qy9DizMlr) [[Code]](https://github.com/bytedance/DecompDiff)
-    - **[Arxiv 2023.03]** Leapfrog Diffusion Model for Stochastic Trajectory Prediction. [[Paper]](https://arxiv.org/pdf/2303.10895) [[Code]](https://github.com/MediaBrain-SJTU/LED)
-
+    - **[Arxiv 2022.02]** PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior. [[Paper]](https://arxiv.org/pdf/2106.06406)
+    - **[Arxiv 2023.05]** DiGress: Discrete Denoising diffusion for graph generation. [[Paper]](https://arxiv.org/pdf/2209.14734) [[Code]](https://github.com/cvignac/DiGress)
+    - **[Arxiv 2024.02]** DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design. [[Paper]](https://arxiv.org/pdf/2403.07902) [[Code]](https://github.com/bytedance/DecompDiff)
+    - **[CVPR 2023]** Leapfrog diffusion model for stochastic trajectory prediction. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.pdf) [[Code]](https://github.com/MediaBrain-SJTU/LED)
+  
   - ##### Rectified Flow
+    - **[Arxiv 2022.09]** Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow. [[Paper]](https://arxiv.org/pdf/2209.03003) [[Code]](https://github.com/gnobitab/RectifiedFlow)
+    - **[ICLR 2024]** InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation. [[Paper]](https://openreview.net/pdf?id=1k4yZbbDqX) [[Code]](https://github.com/gnobitab/InstaFlow)
+    - **[Arxiv 2022.09]** Rectified Flow: A Marginal Preserving Approach to Optimal Transport. [[Paper]](https://arxiv.org/pdf/2209.14577)
+    - **[Arxiv 2024.10]** Improving the Training of Rectified Flows. [[Paper]](https://arxiv.org/pdf/2405.20320) [[Code]](https://github.com/sangyun884/rfpp)
+    - **[Arxiv 2023.09]** Diffusion Models with Deterministic Normalizing Flow Priors. [[Paper]](https://arxiv.org/pdf/2309.01274) [[Code]](https://github.com/MohsenZand/DiNof)
+    - **[Arxiv 2024.09]** PeRFlow: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator. [[Paper]](https://arxiv.org/pdf/2405.07510) [[Code]](https://github.com/magic-research/piecewise-rectified-flow)
+    - **[Arxiv 2024.02]** SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow. [[Paper]](https://arxiv.org/pdf/2407.12718?) [[Code]](https://github.com/yuanzhi-zhu/SlimFlow)
+  
 #### Efficient Fine-tuning
   - ##### Low Rank Adaptation
 
@@ -153,17 +161,17 @@ Markdown format:
 ### Frameworks
 <div align="center">
 
-|                                                    | Efficient Training | Efficient Fine-Tuning | Efficient Inference    |
-| :-------------------------------------------------------------------- | :------------------: | :---------------------: | :--: |
-| Diffusers [[Code](https://github.com/huggingface/diffusers)]            | ✅                   | ✅                     | ✅   |
-| DALL-E [[Code](https://github.com/openai/DALL-E)]                       | ❌                   | ❌                     | ✅   |
-| OneDiff [[Code](https://github.com/siliconflow/onediff)]                | ❌                   | ❌                     | ✅   |
-| LiteGen [[Code](https://github.com/Vchitect/LiteGen)]                   | ✅                   | ✅                     | ✅   |
-| InvokeAI [[Code](https://github.com/invoke-ai/InvokeAI)]                | ❌                   | ✅                     | ✅   |
-| ComfyUI-Docker [[Code](https://github.com/YanWenKun/ComfyUI-Docker)]    | ❌                   | ✅                     | ✅   |
-| Grate [[Code](https://github.com/damian0815/grate)]                     | ❌                   | ✅                     | ✅   |
-| Versatile Diffusion [[Code](https://github.com/SHI-Labs/Versatile-Diffusion)]                  | ✅                     | ✅                     | ✅   |
-| UniDiffuser [[Code](https://github.com/thu-ml/unidiffuser)]             | ✅                   | ✅                     | ✅   |
+|                                                                               | Efficient Training | Efficient Fine-Tuning | Efficient Inference |
+| :---------------------------------------------------------------------------- | :----------------: | :-------------------: | :-----------------: |
+| Diffusers [[Code](https://github.com/huggingface/diffusers)]                  |         ✅          |           ✅           |          ✅          |
+| DALL-E [[Code](https://github.com/openai/DALL-E)]                             |         ❌          |           ❌           |          ✅          |
+| OneDiff [[Code](https://github.com/siliconflow/onediff)]                      |         ❌          |           ❌           |          ✅          |
+| LiteGen [[Code](https://github.com/Vchitect/LiteGen)]                         |         ✅          |           ✅           |          ✅          |
+| InvokeAI [[Code](https://github.com/invoke-ai/InvokeAI)]                      |         ❌          |           ✅           |          ✅          |
+| ComfyUI-Docker [[Code](https://github.com/YanWenKun/ComfyUI-Docker)]          |         ❌          |           ✅           |          ✅          |
+| Grate [[Code](https://github.com/damian0815/grate)]                           |         ❌          |           ✅           |          ✅          |
+| Versatile Diffusion [[Code](https://github.com/SHI-Labs/Versatile-Diffusion)] |         ✅          |           ✅           |          ✅          |
+| UniDiffuser [[Code](https://github.com/thu-ml/unidiffuser)]                   |         ✅          |           ✅           |          ✅          |
 
 </div>
 
