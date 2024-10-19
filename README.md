@@ -108,11 +108,24 @@ Markdown format:
     - **[CVPR 2024]** 3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation. [[Paper]](https://arxiv.org/pdf/2311.09571) [[Code]](https://github.com/threedle/3d-paintbrush)
 
 ### System
+
 #### Optimized Hardware-Software Co-Design
+  - **[CVPRW 2023]** Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/ECV/papers/Chen_Speed_Is_All_You_Need_On-Device_Acceleration_of_Large_Diffusion_CVPRW_2023_paper.pdf) [[Project]](https://research.google/blog/speed-is-all-you-need-on-device-acceleration-of-large-diffusion-models-via-gpu-aware-optimizations/)
+  - **[FPL 2024]** SDA: Low-Bit Stable Diffusion Acceleration on Edge FPGAs. [[Paper]](https://www.sfu.ca/~zhenman/files/C41-FPL2024-SDA.pdf) [[Code]](https://github.com/Michaela1224/SDA_code)
+  - **[ISCAS 2024]** A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision. [[Paper]](https://arxiv.org/pdf/2403.04982)
+
 #### Parallel Computing
+  - **[CVPR 2024]** DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models. [[Paper]](https://arxiv.org/pdf/2402.19481) [[Code]](https://github.com/mit-han-lab/distrifuser)
+  - **[Arxiv 2024.05]** PipeFusion: Displaced Patch Pipeline Parallelism for Inference of Diffusion Transformer Models. [[Paper]](https://arxiv.org/pdf/2405.14430) [[Code]](https://github.com/PipeFusion/PipeFusion?tab=readme-ov-file)
+  - **[Arxiv 2024.07]** SwiftDiffusion: Efficient Diffusion Model Serving with Add-on Modules. [[Paper]](https://arxiv.org/pdf/2407.02031) 
+  - **[MLSys 2024]** DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines. [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2024/file/45c1f6a8cbf2da59ebf2c802b4f742cd-Paper-Conference.pdf)
+
 #### Caching Technique
-
-
+  - **[NSDI 2024]** Approximate Caching for Efficiently Serving Text-to-Image Diffusion Models. [[Paper]](https://arxiv.org/pdf/2312.04429) [[Code]](https://github.com/mit-han-lab/distrifuser)
+  - **[CVPR 2024]** DeepCache: Accelerating Diffusion Models for Free. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_DeepCache_Accelerating_Diffusion_Models_for_Free_CVPR_2024_paper.pdf) [[Code]](https://github.com/horseee/DeepCache)
+  - **[CVPR 2024]** Cache Me if You Can: Accelerating Diffusion Models through Block Caching. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wimbauer_Cache_Me_if_You_Can_Accelerating_Diffusion_Models_through_Block_CVPR_2024_paper.pdf) [[Project]](https://fwmb.github.io/blockcaching/#)
+  - **[Arxiv 2024.06]** Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching. [[Paper]](https://arxiv.org/pdf/2406.01733) [[Code]](https://github.com/horseee/learning-to-cache)
+  - **[Arxiv 2024.07]** FORA: Fast-Forward Caching in Diffusion Transformer Acceleration. [[Paper]](https://arxiv.org/pdf/2407.01425) [[Code]](https://github.com/prathebaselva/FORA)
 
 
 ## Frameworks
