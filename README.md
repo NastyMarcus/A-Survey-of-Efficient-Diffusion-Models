@@ -104,7 +104,8 @@ Markdown format:
     - **[ECCV 2020]** NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. [[Paper]](https://arxiv.org/pdf/2003.08934) [[Code]](https://github.com/bmild/nerf)
     - **[ICLR 2023]** DreamFusion: Text-to-3D using 2D Diffusion. [[Paper]](https://openreview.net/pdf?id=FjNys5c7VyY) [[Project]](https://dreamfusion3d.github.io/)
     - **[NeurIPS 2023]** ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation. [[Paper]](https://arxiv.org/pdf/2305.16213) [[Code]](https://github.com/thu-ml/prolificdreamer)
-    - **[NeurIPS 2023]** ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation. [[Paper]](https://arxiv.org/pdf/2305.16213) [[Code]](https://github.com/thu-ml/prolificdreamer)
+    - **[NeurIPS 2023]** Diff-Instruct: A Universal Approach for Transferring Knowledge From Pre-trained Diffusion Models. [[Paper]](https://arxiv.org/pdf/2305.18455) [[Code]](https://github.com/pkulwj1994/diff_instruct)
+    - **[CVPR 2024]** 3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation. [[Paper]](https://arxiv.org/pdf/2311.09571) [[Code]](https://github.com/threedle/3d-paintbrush)
 
 ### System
 #### Optimized Hardware-Software Co-Design
