@@ -93,7 +93,7 @@ Markdown format:
 
   - ##### Partial Sampling
     - **[EMNLP 2021]** Consistent Accelerated Inference via Confident Adaptive Transformers. [[Paper]](https://arxiv.org/pdf/2104.08803) [[Code]](https://github.com/TalSchuster/CATs)
-    - **[NIPS 2022]** Confident Adaptive Language Modeling. [[Paper]](https://openreview.net/pdf?id=uLYc4L3C81A)
+    - **[NeurIPS 2022]** Confident Adaptive Language Modeling. [[Paper]](https://openreview.net/pdf?id=uLYc4L3C81A)
     - **[ICML 2024]** A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models. [[Paper]](https://openreview.net/pdf?id=OnOaj3g9fi) [[Code]](https://github.com/taehong-moon/ee-diffusion)
     - **[Arxiv 2022.04]** Semi-Parametric Neural Image Synthesis. [[Paper]](https://arxiv.org/pdf/2204.11824) [[Code]](https://github.com/lucidrains/retrieval-augmented-ddpm)
     - **[ICLR 2023]** kNN-Diffusion: Image Generation via Large-Scale Retrieval. [[Paper]](https://openreview.net/pdf?id=x5mtJD2ovc)
