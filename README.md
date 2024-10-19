@@ -43,24 +43,20 @@ Markdown format:
     - **[ICML 2021]** Improved Denoising Diffusion Probabilistic Models. [[Paper]](https://proceedings.mlr.press/v139/nichol21a/nichol21a.pdf) [[Code]](https://github.com/openai/improved-diffusion)
     - **[Arxiv 2024.07]** Improved Noise Schedule for Diffusion Training. [[Paper]](https://arxiv.org/pdf/2407.03297) 
     - **[EMNLP 2023]** A Cheaper and Better Diffusion Language Model with Soft-Masked Noise. [[Paper]](https://aclanthology.org/2023.emnlp-main.289.pdf) [[Code]](https://github.com/SALT-NLP/Masked_Diffusioin_LM)
-    - **[NeurIPS, 2024]** ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac2eac5098dba08208807b65c5851cc-Paper-Conference.pdf) [[Code]](https://github.com/zsyOAOA/ResShift)
-     - **[Arxiv, 2024.06]** Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment [[Paper]](https://arxiv.org/pdf/2406.12303) [[Code]](https://github.com/yhli123/immiscible-diffusion)
-    - **[ACL, 2024]** Text Diffusion Model with Encoder-Decoder Transformers for Sequence-to-Sequence Generation, ACL 24 [[Paper]](https://aclanthology.org/2024.naacl-long.2.pdf)
+    - **[NeurIPS 2024]** ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac2eac5098dba08208807b65c5851cc-Paper-Conference.pdf) [[Code]](https://github.com/zsyOAOA/ResShift)
+     - **[Arxiv 2024.06]** Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment. [[Paper]](https://arxiv.org/pdf/2406.12303) [[Code]](https://github.com/yhli123/immiscible-diffusion)
+    - **[ACL 2024]** Text Diffusion Model with Encoder-Decoder Transformers for Sequence-to-Sequence Generation. [[Paper]](https://aclanthology.org/2024.naacl-long.2.pdf)
 
   - ##### Score Matching
-    - **[UAI, 2019]** Sliced Score Matching: A Scalable Approach to Density and Score Estimation [[Paper]](https://proceedings.mlr.press/v115/song20a/song20a.pdf) [[Code]](https://github.com/ermongroup/sliced_score_matching)
-    - **[NeurIPS, 2019]** Generative Modeling by Estimating Gradients of the Data Distribution [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf) [[Code]](https://github.com/kasyap1234/-Generative-Modeling-by-Estimating-Gradients-of-the-Data-Distribution-implementation)
-    - **[ICLR 2022]** Score-Based Generative Modeling with Critically-Damped Langevin Diffusion [[Paper]]([2112.07068](https://arxiv.org/pdf/2112.07068)) [[Code]](https://github.com/nv-tlabs/CLD-SGM.git)
+    - **[UAI 2019]** Sliced Score Matching: A Scalable Approach to Density and Score Estimation. [[Paper]](https://proceedings.mlr.press/v115/song20a/song20a.pdf) [[Code]](https://github.com/ermongroup/sliced_score_matching)
+    - **[NeurIPS 2019]** Generative Modeling by Estimating Gradients of the Data Distribution. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf) [[Code]](https://github.com/kasyap1234/-Generative-Modeling-by-Estimating-Gradients-of-the-Data-Distribution-implementation)
+    - **[ICLR 2022]** Score-Based Generative Modeling with Critically-Damped Langevin Diffusion. [[Paper]]([2112.07068](https://arxiv.org/pdf/2112.07068)) [[Code]](https://github.com/nv-tlabs/CLD-SGM.git)
 
   - ##### Data-Dependent Adaptive Priors
-    - **[ICLR 2022]** PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior [[Paper]](https://openreview.net/pdf?id=_BNiN4IjC5)
-   
-    - **[ICLR 2023]** DiGress: Discrete Denoising Diffusion for Graph Generation [[Paper]](https://openreview.net/pdf?id=UaAD-Nu86WX) [[Code]](https://github.com/cvignac/DiGress)
-   
-    - **[ICML 2023]** DECOMPDIFF: Diffusion Models with Decomposed Priors for Structure-Based Drug Design [[Paper]](https://openreview.net/pdf?id=9qy9DizMlr) [[Code]](https://github.com/bytedance/DecompDiff)
-   
-    - **[Arxiv 2023.03]** Leapfrog Diffusion Model for Stochastic Trajectory Prediction [[Paper]](https://arxiv.org/pdf/2303.10895) [[Code]](https://github.com/MediaBrain-SJTU/LED)
-
+    - **[ICLR 2022]** PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior. [[Paper]](https://openreview.net/pdf?id=_BNiN4IjC5)
+    - **[ICLR 2023]** DiGress: Discrete Denoising Diffusion for Graph Generation. [[Paper]](https://openreview.net/pdf?id=UaAD-Nu86WX) [[Code]](https://github.com/cvignac/DiGress)
+    - **[ICML 2023]** DECOMPDIFF: Diffusion Models with Decomposed Priors for Structure-Based Drug Design. [[Paper]](https://openreview.net/pdf?id=9qy9DizMlr) [[Code]](https://github.com/bytedance/DecompDiff)
+    - **[Arxiv 2023.03]** Leapfrog Diffusion Model for Stochastic Trajectory Prediction. [[Paper]](https://arxiv.org/pdf/2303.10895) [[Code]](https://github.com/MediaBrain-SJTU/LED)
 
   - ##### Rectified Flow
 #### Efficient Fine-tuning
@@ -84,8 +80,14 @@ Markdown format:
     - **[ICML 2024]** Accelerating Parallel Sampling of Diffusion Models. [[Paper]](https://openreview.net/pdf?id=CjVWen8aJL) [[Code]](https://github.com/TZW1998/ParaTAA-Diffusion)
     - **[NeurIPS 2023]** Parallel Sampling of Diffusion Models. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/0d1986a61e30e5fa408c81216a616e20-Paper-Conference.pdf) [[Code]](https://github.com/AndyShih12/paradigms)
 
-  - ##### Partial Sampling 
-    - 
+  - ##### Partial Sampling
+    - **[EMNLP 2021]** Consistent Accelerated Inference via Confident Adaptive Transformers. [[Paper]](https://arxiv.org/pdf/2104.08803) [[Code]](https://github.com/TalSchuster/CATs)
+    - **[NIPS 2022]** Confident Adaptive Language Modeling. [[Paper]](https://openreview.net/pdf?id=uLYc4L3C81A)
+    - **[ICML 2024]** A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models. [[Paper]](https://openreview.net/pdf?id=OnOaj3g9fi) [[Code]](https://github.com/taehong-moon/ee-diffusion)
+    - **[Arxiv 2022.04]** Semi-Parametric Neural Image Synthesis. [[Paper]](https://arxiv.org/pdf/2204.11824) [[Code]](https://github.com/lucidrains/retrieval-augmented-ddpm)
+    - **[ICLR 2023]** kNN-Diffusion: Image Generation via Large-Scale Retrieval. [[Paper]](https://openreview.net/pdf?id=x5mtJD2ovc)
+    - **[ICLR 2023]** Re-Imagen: Retrieval-Augmented Text-to-Image Generator. [[Paper]](https://openreview.net/pdf?id=XSEBx0iSjFQ)
+    - **[ICML 2023]** ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval. [[Paper]](https://openreview.net/pdf?id=SP01yVIC2o) [[Code]](https://github.com/zkx06111/ReDiffusion)
 
 #### Compression
 
