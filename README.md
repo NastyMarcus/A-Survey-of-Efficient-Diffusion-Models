@@ -60,6 +60,24 @@ Markdown format:
 
 
 
+
+## Frameworks
+<div align="center">
+
+|                                                    | Efficient Training | Efficient Fine-Tuning | Efficient Inference    |
+| :-------------------------------------------------------------------- | :------------------: | :---------------------: | :--: |
+| Diffusers [[Code](https://github.com/huggingface/diffusers)]            | ✅                   | ✅                     | ✅   |
+| DALL-E [[Code](https://github.com/openai/DALL-E)]                       | ❌                   | ❌                     | ✅   |
+| OneDiff [[Code](https://github.com/siliconflow/onediff)]                | ❌                   | ❌                     | ✅   |
+| LiteGen [[Code](https://github.com/Vchitect/LiteGen)]                   | ✅                   | ✅                     | ✅   |
+| InvokeAI [[Code](https://github.com/invoke-ai/InvokeAI)]                | ❌                   | ✅                     | ✅   |
+| ComfyUI-Docker [[Code](https://github.com/YanWenKun/ComfyUI-Docker)]    | ❌                   | ✅                     | ✅   |
+| Grate [[Code](https://github.com/damian0815/grate)]                     | ❌                   | ✅                     | ✅   |
+| Versatile Diffusion [[Code](https://github.com/SHI-Labs/Versatile-Diffusion)]                  | ✅                     | ✅                     | ✅   |
+| UniDiffuser [[Code](https://github.com/thu-ml/unidiffuser)]             | ✅                   | ✅                     | ✅   |
+
+</div>
+
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=NastyMarcus/A-Survey-of-Efficient-Diffusion-Models&type=Date)](https://star-history.com/#NastyMarcus/A-Survey-of-Efficient-Diffusion-Models&Date)
