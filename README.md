@@ -61,7 +61,7 @@ Markdown format:
   - ##### Score Matching
     - **[UAI 2019]** Sliced Score Matching: A Scalable Approach to Density and Score Estimation. [[Paper]](https://proceedings.mlr.press/v115/song20a/song20a.pdf) [[Code]](https://github.com/ermongroup/sliced_score_matching)
     - **[NeurIPS 2019]** Generative Modeling by Estimating Gradients of the Data Distribution. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf) [[Code]](https://github.com/kasyap1234/-Generative-Modeling-by-Estimating-Gradients-of-the-Data-Distribution-implementation)
-    - **[ICLR 2022]** Score-Based Generative Modeling with Critically-Damped Langevin Diffusion. [[Paper]]((https://arxiv.org/pdf/2112.07068)) [[Code]](https://github.com/nv-tlabs/CLD-SGM)
+    - **[ICLR 2022]** Score-Based Generative Modeling with Critically-Damped Langevin Diffusion. [[Paper]](https://arxiv.org/pdf/2112.07068) [[Code]](https://github.com/nv-tlabs/CLD-SGM)
 
   - ##### Data-Dependent Adaptive Priors
     - **[Arxiv 2022.02]** PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior. [[Paper]](https://arxiv.org/pdf/2106.06406)
