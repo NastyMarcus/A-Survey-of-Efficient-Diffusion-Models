@@ -1,4 +1,4 @@
-﻿<h2 align="center"> Awesome Efficient Diffusion Models <div align=center> </a></h2>
+<h2 align="center"> Awesome Efficient Diffusion Models <div align=center> </a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 <h5 align="center">
@@ -43,13 +43,14 @@ Markdown format:
     - **[ICML 2021]** Improved Denoising Diffusion Probabilistic Models. [[Paper]](https://proceedings.mlr.press/v139/nichol21a/nichol21a.pdf) [[Code]](https://github.com/openai/improved-diffusion)
     - **[Arxiv 2024.07]** Improved Noise Schedule for Diffusion Training. [[Paper]](https://arxiv.org/pdf/2407.03297) 
     - **[EMNLP 2023]** A Cheaper and Better Diffusion Language Model with Soft-Masked Noise. [[Paper]](https://aclanthology.org/2023.emnlp-main.289.pdf) [[Code]](https://github.com/SALT-NLP/Masked_Diffusioin_LM)
-    - **[NIPS, 2024]** **ResShift:** Efficient Diffusion Model for Image Super-resolution by Residual Shifting [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac2eac5098dba08208807b65c5851cc-Paper-Conference.pdf) [Code](https://github.com/zsyOAOA/ResShift)
-     - **[Arxiv, 2024.06]** **Immiscible Diffusion:** Accelerating Diffusion Training with Noise Assignment [Paper](https://arxiv.org/pdf/2406.12303) [Code](https://github.com/yhli123/immiscible-diffusion)
-    - **[ACL, 2024]** Text Diffusion Model with Encoder-Decoder Transformers for Sequence-to-Sequence Generation, ACL 24 [Paper](https://aclanthology.org/2024.naacl-long.2.pdf)
+    - **[NeurIPS, 2024]** ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac2eac5098dba08208807b65c5851cc-Paper-Conference.pdf) [[Code]](https://github.com/zsyOAOA/ResShift)
+     - **[Arxiv, 2024.06]** Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment [[Paper]](https://arxiv.org/pdf/2406.12303) [[Code]](https://github.com/yhli123/immiscible-diffusion)
+    - **[ACL, 2024]** Text Diffusion Model with Encoder-Decoder Transformers for Sequence-to-Sequence Generation, ACL 24 [[Paper]](https://aclanthology.org/2024.naacl-long.2.pdf)
 
   - ##### Score Matching
-    - **[UAI, 2019]** **Sliced Score Matching:** A Scalable Approach to Density and Score Estimation [Paper](https://proceedings.mlr.press/v115/song20a/song20a.pdf) [Code](https://github.com/ermongroup/sliced_score_matching)
-    - **[NIPS, 2019]** Generative Modeling by Estimating Gradients of the Data Distribution [Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf) [Code](https://github.com/kasyap1234/-Generative-Modeling-by-Estimating-Gradients-of-the-Data-Distribution-implementation)
+    - **[UAI, 2019]** Sliced Score Matching: A Scalable Approach to Density and Score Estimation [[Paper]](https://proceedings.mlr.press/v115/song20a/song20a.pdf) [[Code]](https://github.com/ermongroup/sliced_score_matching)
+    - **[NeurIPS, 2019]** Generative Modeling by Estimating Gradients of the Data Distribution [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf) [[Code]](https://github.com/kasyap1234/-Generative-Modeling-by-Estimating-Gradients-of-the-Data-Distribution-implementation)
+    - **[ICLR 2022]** Score-Based Generative Modeling with Critically-Damped Langevin Diffusion [[Paper]]([2112.07068](https://arxiv.org/pdf/2112.07068)) [[Code]](https://github.com/nv-tlabs/CLD-SGM.git)
 
   - ##### Data-Dependent Adaptive Priors
   - ##### Rectified Flow
